@@ -40,7 +40,8 @@ input[type="text"] {
 }
 
 button {
-  padding: 10px 20px;
+  flex-basis: 100px;
+  padding: 10px 10px;
   border: none;
   background-color: #28a745;
   color: white;
